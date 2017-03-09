@@ -140,7 +140,7 @@ Veel plezier!!',
 
 We hebben een geupdate download!
 
-[b]Titel:[/b] %1$
+[b]Titel:[/b] %1$s
 
 [b]Beschrijving:[/b] %2$s
 
@@ -149,7 +149,7 @@ We hebben een geupdate download!
 [b]Klik %4$s om naar de categorie te gaan![/b]
 
 Veel plezier!',
-	'ACP_ANNOUNCE_UP_TITLE'				=> '[UPD] %1$s',
+	'ACP_ANNOUNCE_UP_TITLE'				=> '%1$s',
 	'ACP_BASIC'							=> 'Basis instellingen',
 	'ACP_CAT'							=> 'Categorie',
 	'ACP_CATEGORIES'					=> 'categorie&euml;n',
